@@ -4,7 +4,7 @@ I'm JuanMa
 - 🔭 I’m currently working on oga.ai
 - 🌱 I’m currently learning MLDevOps
 
-### Technologies I work with:
+### :triangular_ruler: Technologies I work with:
 
 
 
