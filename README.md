@@ -2,6 +2,7 @@
 I'm JuanMa
 
 - 🔭 I’m currently working on oga.ai [click](https://www.oga.ai/)
+- ![oga](https://www.oga.ai/)
 - 🌱 I’m currently learning MLDevOps
 - 💬 Ask me about Machine Learning, Python, MLDevOps and SAP
 
