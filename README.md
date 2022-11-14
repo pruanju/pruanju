@@ -8,7 +8,7 @@ I'm JuanMa
 
 ### 🎓 Qualifications
 - I have completed Self-Driving Cars Nanodegree program with Udacity [click](https://confirm.udacity.com/W7EDC7DR)
-- I have completed Machine Learning DevOps Engineer with Udacity [click](https://confirm.udacity.com/W7EDC7DRKK)
+- I have completed Machine Learning DevOps Engineer with Udacity [click](https://confirm.udacity.com/TLXLYJ5T)
 
 ### 🔥 Technologies I work with
 - I work intensively on my Machine Learning skills
